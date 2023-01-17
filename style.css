@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "Poppins";
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    font-weight: bolder;
+}
+
+.tent {
+    margin: 0px auto;
+}
+
+.iphone {
+    margin: 0px auto;
+}
+
+.remember {
+    margin: 0px auto;
+    font-family: Poppins;
+    font-size: 21px;
+    color: gray;
+}
+
+h3 {
+    margin: 0px auto;
+    font-family: Poppins;
+    font-size: 42px;
+    color: white
+}
+
+.vid {
+    margin: 0px auto;
+}
+
+.foot {
+    text-align: right;
+    color: gray;
+    font-family: Poppins;
+}
